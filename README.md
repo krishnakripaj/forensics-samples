@@ -6,3 +6,6 @@
 
 ## Event Logs Samples
 * [Windows EVTX Samples](https://github.com/Lichtsinnig/EVTX-ATTACK-SAMPLES)
+
+## Disk Images
+* [Scenario 1](https://kb.digital-detective.net/display/HstEx3/Practice+Files)
