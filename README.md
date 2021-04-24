@@ -15,3 +15,4 @@
 
 ## Web Server logs
 * [Access Logs](https://gist.github.com/rm-hull/bd60aed44024e9986e3c)
+* [Access Logs II](https://github.com/linuxacademy/content-elastic-log-samples)
