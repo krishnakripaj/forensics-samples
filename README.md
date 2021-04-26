@@ -23,3 +23,4 @@
 
 ## Web Shells
 * [Collections of PHP, ASP, JSP etc.](https://github.com/tennc/webshell)
+* [PHP Web Shells](https://github.com/Wphackedhelp/php-webshells)
