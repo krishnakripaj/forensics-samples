@@ -19,3 +19,4 @@
 
 ## Registry Hives
 * [Windows Regsitry Hive Samples](https://github.com/EricZimmerman/Registry/tree/master/Registry.Test/Hives)
+* [RegRipper Samples](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/regripper/samples.zip)
